@@ -1,0 +1,3 @@
+Now what we should do is we should also retrieve videoUrl , headline, celebrities , originalPornstar , categories , tags , screenshotHrefList along with videoSrc + the embedUrl of the video that we just uploaded and save all it in the new collection named ready.
+
+We can get the embedUrl by protected_embed
